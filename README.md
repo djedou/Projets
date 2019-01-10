@@ -28,3 +28,9 @@ _You **can** combine them_
         $.facebox({div:'#foo'})
       }
     }
+
+```javascript
+function test() {
+console.log("look ma’, no spaces");
+}
+```
