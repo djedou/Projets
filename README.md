@@ -21,3 +21,10 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
    1. Item 3c
+
+
+ function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
