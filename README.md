@@ -25,6 +25,6 @@ _You **can** combine them_
 
 ```javascript
 function test() {
-console.log("look ma’, no spaces");
+console.log("look ma’, no djed");
 }
 ```
