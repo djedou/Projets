@@ -23,12 +23,6 @@ _You **can** combine them_
    1. Item 3c
 
 
- function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
 ```javascript
 function test() {
 console.log("look ma’, no spaces");
