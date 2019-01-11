@@ -8,8 +8,10 @@ et sur New Repository
   * En terminal: `git clone https://github.com/djedou/nom-proje.git`
 * faites: `cd nom-projet`
 il faut noter que nous n'avons pas encore créer de dossier dans ce projet.
-mais si vous créer un dossier ou un fichier alors vous pourrez le modifier dans toutes les branches que vous créererez plutard.
-une branche en git comme un endroit virtuel 
+mais si vous créer un dossier ou un fichier alors vous pourrez le modifier dans toutes les branches que vous créerez plutard.
+Une branche en git est comme un endroit virtuel où vous faites une copie du fichier et vous le modifier.
+la copie virtuel d'un fichier dans la branche `master` est celle qui est conciderée comme la bonne copie ou l'originale
+
 1. Créer une branche __"devel
 1. Aller dans cette nouvelle branche
 1. Rédiger *3* lignes de textes pour débuter une histoire dans le *README.md* __(en utilisant un maximum le markdown)__
