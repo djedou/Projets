@@ -1,19 +1,8 @@
 # Fonctionnement de GIT #
-## Objectifs
-
-- Amélioration des compétences en Markdown
-- Amélioration des compétences en Git
-- Apprentissage d'un workflow avec des contributeurs sur GitHub
-
-## Instructions
-
-Durée : 1 Jour
-
-A plusieurs, jouer à réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)) en utilisant Git pour échanger vos contributions. 
-**Principe** : arriver à travailler sur les mêmes fichiers en même temps, en gérant les conflits (ou en les évitant).  
 
 ### Etape 1 : Initialisation
-1. Créer un dépôt sur GitHub nommé `Exercice-Cadavre-Exquis-MonPrenom`
+1. Créer un dépôt(repository, projet) sur GitHub en utilisant le boutton pret de la photo de profil
+et sur New Repository
 1. Créer un fichier *README.md*
 1. En markdown, donner un titre à votre histoire
 1. `clone` de votre dépôt sur votre ordinateur
