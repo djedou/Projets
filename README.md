@@ -1,7 +1,7 @@
 # Fonctionnement de GIT #
 
 ### Etape 1 : Initialisation
-1. Créer un dépôt(repository, projet) sur GitHub en utilisant le boutton pret de la photo de profil
+1. Créer un dépôt (repository, projet) sur GitHub en utilisant le boutton pret de la photo de profil
 et sur New Repository
 1. Créer un fichier *README.md*
 1. En markdown, donner un titre à votre histoire
