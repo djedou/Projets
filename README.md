@@ -1,1 +1,1 @@
-#Fonctionnement de GIT#
+# Fonctionnement de GIT #
