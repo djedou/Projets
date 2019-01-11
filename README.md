@@ -3,10 +3,8 @@
 ### Etape 1 : Initialisation
 1. Créer un dépôt (repository, projet) sur GitHub en utilisant le boutton pret de la photo de profil
 et sur New Repository
-2. cocher la case qui demande de creer le fichier *README.md*
-1. Créer un fichier *README.md*
-1. En markdown, donner un titre à votre histoire
-1. `clone` de votre dépôt sur votre ordinateur
+* cocher la case qui demande de creer le fichier *README.md*
+1. pour avoir le meme projet sur GitHub dans son PC local, vous pouvez *cloner* votre dépôt 
 1. Créer une branche __"developpement"__
 1. Aller dans cette nouvelle branche
 1. Rédiger *3* lignes de textes pour débuter une histoire dans le *README.md* __(en utilisant un maximum le markdown)__
