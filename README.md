@@ -5,8 +5,9 @@
 et sur New Repository
   * cocher la case qui demande de creer le fichier *README.md*
 * pour avoir le meme projet sur GitHub dans son PC local, vous pouvez **cloner** votre dépôt 
-  * **git clone https://github.com/djedou/nom-proje.git**
-1. Créer une branche __"developpement"__
+  *En terminal **git clone https://github.com/djedou/nom-proje.git**
+* faites `cd nom-projet`
+1. Créer une branche __"devel
 1. Aller dans cette nouvelle branche
 1. Rédiger *3* lignes de textes pour débuter une histoire dans le *README.md* __(en utilisant un maximum le markdown)__
 1. Faire un `add`
