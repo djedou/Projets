@@ -12,7 +12,22 @@ mais si vous créer un dossier ou un fichier alors vous pourrez le modifier dans
 Une branche en git est comme un endroit virtuel où vous faites une copie du fichier et vous le modifier.
 la copie virtuel d'un fichier dans la branche `master` est celle qui est conciderée comme la bonne copie ou l'originale
 
-1. Créer une branche __"devel
+* Créer une branche, par exemple: `git branch developpement`
+* Basculer dans cette branche en tapant: `git checkout developpement`
+* Vous pouvez apporter des modifications a un fichier en etant dans cette branche ou toute autre branche
+a travers un IDE comme visual studio code ou atom.
+* Une fois la modification apportée, vous pouvez associer le nouveau fichier a une branche.
+`git add nomFichier`
+`git commit -m "un message comme info sur ce qui est fait`
+
+* et bien vous pouvez apporter la nouvelle branche sur github ou la laisser en local. Mais si elle doit aller sur github
+alors la commande est: `git push brancheA`
+* Par exemple si vous ne voulez pas apporter la branche sur github et que vous vouler apporter la modif dans une autre
+branche alors `git checkout brancheB` `git merge brancheA`
+
+
+ Il faut noter que si vous modifier un fichier dans cette branche alors la modification
+ n'est visible que dans cette branche. Alors 
 1. Aller dans cette nouvelle branche
 1. Rédiger *3* lignes de textes pour débuter une histoire dans le *README.md* __(en utilisant un maximum le markdown)__
 1. Faire un `add`
