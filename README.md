@@ -13,7 +13,7 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 ## Projets
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| [App Web](https://github.com/djedou/Edjambo) | ReactJS | oui | oui | non  |
+| [App Web](https://github.com/djedou/Edjambo) | ReactJS, NodeJS, ExpressJS | oui | oui | non  |
 | [App Mobile](#) | React Native | non | non | non  |
 | [Site Web](https://notrebiencommun.org) | NodeJS, ExpressJS | | | oui  |
 
@@ -24,7 +24,7 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 | [Site Web](https://github.com/djedou/JS-Cookie-Clicker) | HTML5, JavaScript, CSS3 | | | oui  |
 
 
-| NewInstantanée | Technologies | Débuté | En cours | Fini |
+| NewsInstantanées | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [SoroNews](#) | React Native,Youtube, Sociaux | non | non | non  |
 | [JonnyNews](#) | React Native,Youtube, Sociaux  | non | non | non  |
