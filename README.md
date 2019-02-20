@@ -23,6 +23,13 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 | [App Mobile](#) | React Native | non | non | non  |
 | [Site Web](https://github.com/djedou/JS-Cookie-Clicker) | HTML5, JavaScript, CSS3 | | | oui  |
 
+
+| NewInstantanée | Technologies | Débuté | En cours | Fini |
+|:-:|:-:|:-:|:-:|:-:|
+| [SoroNews](#) | React Native,Youtube, Sociaux | non | non | non  |
+| [JonnyNews](#) | React Native,Youtube, Sociaux  | non | non | non  |
+
+
 ## Auteur
 Nom: Aman Djedou  
 Email: djedouarnaud.aman@gmail.com  
