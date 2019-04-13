@@ -14,21 +14,12 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [App Web](https://github.com/djedou/Edjambo) | ReactJS, NodeJS, ExpressJS, MongoDB | oui | oui | non  |
-| [App Mobile](#) | React Native | non | non | non  |
 | [Site Web](https://notrebiencommun.org) | NodeJS, ExpressJS | | | oui  |
 
-| JS-Cookie-Clicker | Technologies | Débuté | En cours | Fini |
+| duid | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| [App Web](#) | ReactJS | non | non | non  |
-| [App Mobile](#) | React Native | non | non | non  |
-| [Site Web](https://github.com/djedou/JS-Cookie-Clicker) | HTML5, JavaScript, CSS3 | | | oui  |
-
-
-| NewsInstantanées | Technologies | Débuté | En cours | Fini |
-|:-:|:-:|:-:|:-:|:-:|
-| [SoroNews](#) | React Native,Youtube, Sociaux | non | non | non  |
-| [JonnyNews](#) | React Native,Youtube, Sociaux  | non | non | non  |
-
+| [Djedou UI Design](#) | ReactJS | oui | oui | non  |
+ [repo Github](https://github.com/djedou/duid) <td colspan=5> 
 
 ## Auteur
 Nom: Aman Djedou  
