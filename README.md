@@ -18,8 +18,8 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 
 | duid | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| [Djedou UI Design](#) | ReactJS | oui | oui | non  |
- [repo Github](https://github.com/djedou/duid) <td colspan=5> 
+| [Djedou UI Design](https://github.com/djedou/duid) | ReactJS | oui | oui | non  |  
+
 
 ## Auteur
 Nom: Aman Djedou  
