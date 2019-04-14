@@ -24,7 +24,7 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 ## Auteur
 Nom: Aman Djedou  
 Email: djedouarnaud.aman@gmail.com  
-LinkedLn: linkedin.com/in/djedou-arnaud-aman-39477b178  
+LinkedLn: [linkedin](https://www.linkedin.com/in/djedou-arnaud-aman-39477b178/) 
 GitHub: [Profil](https://github.com/djedou)  
 CV: [CV](https://djedou.github.io/Mon-CV/)  
 
