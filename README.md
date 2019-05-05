@@ -14,8 +14,8 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 
 | duid | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| [Djedou UI Design](https://github.com/djedou/duid) | ReactJS | oui | oui | non  |  
-| [Documentation](https://djedou.github.io/duid/) | MkDocs | oui | oui | non  |
+| [Djedou UI Design System](https://github.com/djedou/duidsystem) | ReactJS | oui | oui | non  |  
+| [Documentation](https://djedou.github.io/duidsystem/) | MkDocs | oui | oui | non  |
 
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
