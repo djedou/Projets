@@ -19,8 +19,8 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| [App Web](https://github.com/djedou/Edjambo) | ReactJS, NodeJS, ExpressJS, MongoDB | oui | oui | non  |
-| [Site Web](https://notrebiencommun.org) | NodeJS, ExpressJS | | | oui  |
+| [GitHub](https://github.com/djedou/Edjambo) | ReactJS, Firebase | oui | oui | non  |
+| [Site Web](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | | | oui  |
 
 ## Auteur
 Nom: Aman Djedou  
