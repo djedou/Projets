@@ -12,7 +12,7 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 
 ## Projets
 
-| duid | Technologies | Débuté | En cours | Fini |
+| duidsystem | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [Djedou UI Design System](https://github.com/djedou/duidsystem) | ReactJS | oui | oui | non  |  
 | [Documentation](https://djedou.github.io/duidsystem/) | MkDocs | oui | oui | non  |
@@ -21,6 +21,16 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 |:-:|:-:|:-:|:-:|:-:|
 | [GitHub](https://github.com/djedou/Edjambo) | ReactJS, Firebase | oui | oui | non  |
 | [Site Web](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | | | oui  |
+
+| BuyForMe | Technologies | Débuté | En cours | Fini |
+|:-:|:-:|:-:|:-:|:-:|
+| | |  |  |   |  
+| |  | | | |
+
+| LeSecondaire | Technologies | Débuté | En cours | Fini |
+|:-:|:-:|:-:|:-:|:-:|
+| | | | |  |  
+| | | | |  |
 
 ## Auteur
 Nom: Aman Djedou  
