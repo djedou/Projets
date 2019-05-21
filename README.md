@@ -20,7 +20,7 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [GitHub](https://github.com/djedou/Edjambo) | ReactJS, Firebase | oui | oui | non  |
-| [Site Web](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | | | oui  |
+| [Site Web](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | oui | oui | non  |
 
 | BuyForMe | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
