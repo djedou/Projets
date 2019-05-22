@@ -14,13 +14,13 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 
 | duidsystem | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| [Djedou UI Design System](https://github.com/djedou/duidsystem) | ReactJS | oui | oui | non  |  
+| [GitHub](https://github.com/djedou/duidsystem) | ReactJS | oui | oui | non  |  
 | [Documentation](https://djedou.github.io/duidsystem/) | MkDocs | oui | oui | non  |
 
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [GitHub](https://github.com/djedou/Edjambo) | ReactJS, Firebase | oui | oui | non  |
-| [Site Web](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | oui | oui | non  |
+| [En Ligne](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | oui | oui | non  |
 
 | BuyForMe | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
