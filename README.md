@@ -24,12 +24,12 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 
 | BuyForMe | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| | |  |  |   |  
-| |  | | | |
+| [GitHub](https://github.com/djedou/BuyForMe) | React Native, Expo, Firebase | oui | oui | non  |  
+| [Expo](https://expo.io/@djedou/BuyForMe) | voir les instructions sur [GitHub](https://github.com/djedou/BuyForMe) pour tester | oui | oui | oui |
 
 | LeSecondaire | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
-| | | | |  |  
+| [GitHub](https://github.com/djedou/LeSecondaire) | React, firebase | oui | oui | non |  
 | | | | |  |
 
 ## Auteur
