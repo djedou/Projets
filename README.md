@@ -15,12 +15,12 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 | duidsystem | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [GitHub](https://github.com/djedou/duidsystem) | ReactJS | oui | oui | non  |  
-| [Documentation](https://djedou.github.io/duidsystem/) | MkDocs | oui | oui | non  |
+| [Documentation](https://djedou.github.io/duidsystem/) | MkDocs, gh-pages | oui | oui | non  |
 
 | Edjambo | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [GitHub](https://github.com/djedou/Edjambo) | ReactJS, Firebase | oui | oui | non  |
-| [En Ligne](https://www.notrebiencommun.org/) | ReactJS, NextJS, Firebase | oui | oui | non  |
+| [En Ligne](https://www.notrebiencommun.org/) | Nginx, Node.js, pm2 | oui | oui | non  |
 
 | BuyForMe | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
@@ -30,7 +30,7 @@ Ce repo est fait pour référencier mes différents projets sur GitHub
 | LeSecondaire | Technologies | Débuté | En cours | Fini |
 |:-:|:-:|:-:|:-:|:-:|
 | [GitHub](https://github.com/djedou/LeSecondaire) | React, firebase | oui | oui | non |  
-| | | | |  |
+| [En Ligne](https://djedou.github.io/LeSecondaire/)| gh-pages | oui |  oui | non |
 
 ## Auteur
 Nom: Aman Djedou  
